@@ -1,0 +1,2 @@
+# -AI-Based-Accident-Prevention-in-MMS-Modular-Manufacturing-System-
+Accidents in Modular Manufacturing Systems (MMS) often occur due to delayed human response or oversight. By implementing an AI-powered camera vision system, activities can be continuously monitored and machines can be auto-stopped in real-time upon detecting potential hazards. This proactive approach can significantly reduce accidents. 
